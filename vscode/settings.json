@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 1,
+    "background.useDefault": false,
+    "background.customImages": ["{{ path to image }}"],
+    "background.useFront" : true,
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "fixed",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "748px 0px", //depends on the picture
+        "background-repeat": "no-repeat",
+        "opacity": 0.3
+    }
+}
